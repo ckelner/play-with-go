@@ -1,3 +1,5 @@
+// For https://github.com/hashicorp/terraform/issues/3208
+
 package main
 
 import "fmt"
